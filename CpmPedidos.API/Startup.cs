@@ -34,7 +34,8 @@ namespace CpmPedidos.API
 
             DependencyInjection.Register(services);
 
-            services.AddControllers();
+            services.AddControllers()
+                .AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CpmPedidos.API", Version = "v1" });

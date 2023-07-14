@@ -94,3 +94,7 @@
 /Users/brunorondon/Documents/Projetos/CpmPedidos/CpmPedidos.API/obj/Debug/net5.0/CpmPedidos.API.pdb
 /Users/brunorondon/Documents/Projetos/CpmPedidos/CpmPedidos.API/obj/Debug/net5.0/CpmPedidos.API.genruntimeconfig.cache
 /Users/brunorondon/Documents/Projetos/CpmPedidos/CpmPedidos.API/obj/Debug/net5.0/ref/CpmPedidos.API.dll
+/Users/brunorondon/Documents/Projetos/CpmPedidos/CpmPedidos.API/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/brunorondon/Documents/Projetos/CpmPedidos/CpmPedidos.API/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/brunorondon/Documents/Projetos/CpmPedidos/CpmPedidos.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/brunorondon/Documents/Projetos/CpmPedidos/CpmPedidos.API/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
